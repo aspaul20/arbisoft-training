@@ -1,0 +1,101 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variable files
+.env
+.env.*
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage reports
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.cache/
+cover/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Bandit
+.bandit/
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code / IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# MacOS / system files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Wheels
+*.whl
+
+# Node (if frontend is included)
+node_modules/
+
+# Lock files
+Pipfile.lock
+poetry.lock
+
+# Profiling
+.prof
+
+# Temporary files
+*.swp
+*~
+*.ckpt
+/poetry/
